@@ -82,7 +82,7 @@ p {
     font-size: 200%;
 }
 .slider_cards{
-    display: inline-flex;
+    display: inline-flex;/*Displays an element as an inline-level flex container*/
     align-items: center;
     width: 96%;
     background-color: rgb(108, 164, 254) ;
@@ -97,7 +97,6 @@ p {
     border-radius: 30px;
     margin-bottom: 20px;
     margin-top: 20px;
-    justify-items: auto;
 }
 .bas_about{
     display: flex;
